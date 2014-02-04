@@ -1,0 +1,11 @@
+*.py[co]
+.DS_Store
+*~
+*.swp
+
+# Python virtualenv
+venv
+
+# Landslide generated presentation files
+presentation.html
+
